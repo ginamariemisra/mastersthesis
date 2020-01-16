@@ -1,0 +1,127 @@
+Day,Material,Weight of media (g),Salmonella CFU/mL,Listeria CFU/mL,Salmonella.LOG,Listeria.LOG,Experiment
+Initial,Bacteria in PBS,NA,1.75E+06,8.00E+05,6.243038297,5.90309053,Experiment 1
+Initial,Biostrate,NA,2.45E+06,8.50E+05,6.389166262,5.929419437,Experiment 1
+Initial,Biostrate,NA,2.70E+06,4.50E+05,6.431363925,5.653213479,Experiment 1
+Initial,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Initial,Coco Coir,NA,2.40E+06,1.10E+06,6.380211423,6.04139308,Experiment 1
+Initial,Coco Coir,NA,2.10E+06,8.50E+05,6.322219502,5.929419437,Experiment 1
+Initial,Coco Coir Blank,NA,0.00E+00,6.00E+05,0,5.778151974,Experiment 1
+Initial,Hemp,NA,1.70E+06,7.50E+05,6.230449177,5.875061842,Experiment 1
+Initial,Hemp,NA,2.45E+06,3.50E+05,6.389166262,5.544069285,Experiment 1
+Initial,Hemp Blank,NA,0.00E+00,5.50E+05,0,5.740363479,Experiment 1
+Initial,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Initial,Soil,NA,1.30E+06,7.50E+05,6.113943686,5.875061842,Experiment 1
+Initial,Soil,NA,2.10E+06,5.00E+05,6.322219502,5.698970873,Experiment 1
+Initial,Soil Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+One Day,Bacteria in PBS,NA,1.75E+06,7.50E+05,6.243038297,5.875061842,Experiment 1
+One Day,Biostrate,NA,1.90E+07,1.15E+07,7.278753624,7.060697878,Experiment 1
+One Day,Biostrate,NA,2.25E+07,1.40E+07,7.352182537,7.146128067,Experiment 1
+One Day,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+One Day,Coco Coir Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+One Day,Coco Coir,NA,1.00E+06,9.50E+05,6.000000434,5.977724062,Experiment 1
+One Day,Coco Coir,NA,2.50E+06,6.00E+05,6.397940182,5.778151974,Experiment 1
+One Day,Hemp,NA,8.10E+07,1.10E+08,7.908485024,8.041392689,Experiment 1
+One Day,Hemp,NA,6.10E+07,2.20E+08,7.785329842,8.342422683,Experiment 1
+One Day,Hemp Blank,NA,0.00E+00,2.50E+05,0,5.397941746,Experiment 1
+One Day,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+One Day,Soil,NA,3.00E+06,8.50E+05,6.477121399,5.929419437,Experiment 1
+One Day,Soil,NA,5.50E+06,1.40E+06,6.740362768,6.146128346,Experiment 1
+One Day,Soil Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Six Days,Bacteria in PBS,NA,1.05E+06,0.00E+00,6.021189713,0,Experiment 1
+Six Days,Biostrate,NA,1.40E+07,1.80E+07,7.146128067,7.255272529,Experiment 1
+Six Days,Biostrate,NA,2.70E+07,8.50E+06,7.43136378,6.929418977,Experiment 1
+Six Days,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Six Days,Coco Coir,NA,3.70E+05,3.00E+05,5.568202898,5.477122702,Experiment 1
+Six Days,Coco Coir,NA,3.05E+05,2.00E+05,5.484301263,5.301032167,Experiment 1
+Six Days,Coco Coir Blank,NA,0.00E+00,1.50E+05,0,5.176094154,Experiment 1
+Six Days,Hemp,NA,2.45E+06,6.90E+06,6.389166262,6.838849154,Experiment 1
+Six Days,Hemp,NA,8.80E+06,2.15E+07,6.944482722,7.33243848,Experiment 1
+Six Days,Hemp Blank,NA,0.00E+00,5.00E+05,0,5.698970873,Experiment 1
+Six Days,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Six Days,Soil,NA,3.90E+05,0.00E+00,5.591065721,0,Experiment 1
+Six Days,Soil,NA,5.65E+05,0.00E+00,5.752049216,0,Experiment 1
+Six Days,Soil Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Three Days,Bacteria in PBS,NA,1.95E+06,0.00E+00,6.290034834,0,Experiment 1
+Three Days,Biostrate,NA,1.50E+07,1.40E+07,7.176091288,7.146128067,Experiment 1
+Three Days,Biostrate,NA,2.70E+07,7.50E+06,7.43136378,6.875061321,Experiment 1
+Three Days,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Three Days,Coco Coir,NA,5.00E+05,1.00E+05,5.698970873,5.000004343,Experiment 1
+Three Days,Coco Coir,NA,9.00E+05,1.50E+05,5.954242992,5.176094154,Experiment 1
+Three Days,Coco Coir Blank,NA,0.00E+00,2.00E+05,0,5.301032167,Experiment 1
+Three Days,Hemp,NA,3.10E+07,4.95E+07,7.491361708,7.694605208,Experiment 1
+Three Days,Hemp,NA,3.70E+07,2.40E+07,7.568201736,7.38021126,Experiment 1
+Three Days,Hemp Blank,NA,0.00E+00,1.55E+06,0,6.190331978,Experiment 1
+Three Days,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Three Days,Soil,NA,5.50E+05,5.00E+04,5.740363479,4.69897869,Experiment 1
+Three Days,Soil,NA,5.00E+05,5.00E+04,5.698970873,4.69897869,Experiment 1
+Three Days,Soil Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
+Initial,Bacteria in PBS,0,7.50E+06,4.00E+06,6.875061321,6.6020601,Experiment 2
+Initial,Biostrate,0.35,2.20E+06,1.50E+06,6.342422878,6.176091549,Experiment 2
+Initial,Biostrate,0.39,2.60E+06,5.50E+05,6.414973515,5.740363479,Experiment 2
+Initial,Biostrate Blank,0.3,0.00E+00,0.00E+00,0,0,Experiment 2
+Initial,PBS Only,0,0.00E+00,0.00E+00,0,0,Experiment 2
+Initial,Coco Coir,0.95,3.05E+06,1.55E+06,6.484299982,6.190331978,Experiment 2
+Initial,Coco Coir,1.1,3.90E+06,1.00E+05,6.591064718,5.000004343,Experiment 2
+Initial,Coco Coir Blank,1,0.00E+00,0.00E+00,0,0,Experiment 2
+Initial,Hemp,0.81,1.40E+06,1.65E+06,6.146128346,6.217484207,Experiment 2
+Initial,Hemp,1,1.90E+06,1.70E+06,6.27875383,6.230449177,Experiment 2
+Initial,Hemp Blank,0.86,0.00E+00,0.00E+00,0,0,Experiment 2
+Initial,Soil,0.86,3.30E+06,1.45E+06,6.518514071,6.161368302,Experiment 2
+Initial,Soil,1.13,2.05E+06,1.30E+06,6.311754073,6.113943686,Experiment 2
+Initial,Soil Blank,0.89,0.00E+00,0.00E+00,0,0,Experiment 2
+One Day,Bacteria in PBS,0,2.00E+05,4.00E+05,5.301032167,5.602061077,Experiment 2
+One Day,Biostrate,0.35,4.20E+06,1.35E+07,6.623249394,7.130333801,Experiment 2
+One Day,Biostrate,0.34,7.00E+06,1.75E+07,6.845098102,7.243038074,Experiment 2
+One Day,Biostrate Blank,0.2,0.00E+00,0.00E+00,0,0,Experiment 2
+One Day,PBS Only,0,0.00E+00,0.00E+00,0,0,Experiment 2
+One Day,Coco Coir,1.1,8.00E+05,2.00E+05,5.90309053,5.301032167,Experiment 2
+One Day,Coco Coir,1.25,1.15E+06,2.00E+05,6.060698218,5.301032167,Experiment 2
+One Day,Coco Coir Blank,1.13,0.00E+00,1.50E+03,0,3.176380692,Experiment 2
+One Day,Hemp,0.97,6.50E+07,1.20E+08,7.812913363,8.07918125,Experiment 2
+One Day,Hemp,0.93,1.20E+08,2.35E+08,8.07918125,8.371067864,Experiment 2
+One Day,Hemp Blank,1.11,0.00E+00,3.50E+05,0,5.544069285,Experiment 2
+One Day,Soil,1.24,2.85E+06,8.50E+05,6.454845012,5.929419437,Experiment 2
+One Day,Soil,1.05,2.90E+06,8.50E+05,6.462398148,5.929419437,Experiment 2
+One Day,Soil Blank,0.94,0.00E+00,0.00E+00,0,0,Experiment 2
+Six Days,Bacteria in PBS,0,8.50E+05,5.00E+02,5.929419437,2.699837726,Experiment 2
+Six Days,Biostrate,0.27,9.50E+06,4.50E+06,6.977723651,6.65321261,Experiment 2
+Six Days,Biostrate,0.22,1.25E+07,1.00E+06,7.096910048,6.000000434,Experiment 2
+Six Days,Biostrate Blank,0.23,0.00E+00,0.00E+00,0,0,Experiment 2
+Six Days,PBS Only,0,0.00E+00,0.00E+00,0,0,Experiment 2
+Six Days,Coco Coir,1.2,5.50E+04,0.00E+00,4.740370586,0,Experiment 2
+Six Days,Coco Coir,1.16,NA,5.00E+03,NA,3.699056855,Experiment 2
+Six Days,Coco Coir Blank,1.23,0.00E+00,0.00E+00,0,0,Experiment 2
+Six Days,Hemp,1.18,2.35E+06,1.40E+07,6.371068047,7.146128067,Experiment 2
+Six Days,Hemp,1.33,3.45E+06,1.15E+07,6.537819221,7.060697878,Experiment 2
+Six Days,Hemp Blank,0.9,0.00E+00,0.00E+00,0,0,Experiment 2
+Six Days,Soil,0.77,3.50E+05,0.00E+00,5.544069285,0,Experiment 2
+Six Days,Soil,0.93,2.00E+05,5.00E+03,5.301032167,3.699056855,Experiment 2
+Six Days,Soil Blank,0.86,0.00E+00,0.00E+00,0,0,Experiment 2
+Ten Days,Bacteria in PBS,0,2.25E+05,0.00E+00,5.352184448,0,Experiment 2
+Ten Days,Biostrate,0.3,8.50E+06,1.30E+06,6.929418977,6.113943686,Experiment 2
+Ten Days,Biostrate,0.21,6.25E+06,1.70E+06,6.795880087,6.230449177,Experiment 2
+Ten Days,Biostrate Blank,0.24,0.00E+00,0.00E+00,0,0,Experiment 2
+Ten Days,PBS Only,0,0.00E+00,0.00E+00,0,0,Experiment 2
+Ten Days,Coco Coir,1.1,3.65E+04,0.00E+00,4.562304763,0,Experiment 2
+Ten Days,Coco Coir,1.21,6.00E+04,0.00E+00,4.778158489,0,Experiment 2
+Ten Days,Coco Coir Blank,0.96,0.00E+00,0.00E+00,0,0,Experiment 2
+Ten Days,Hemp,1.22,8.00E+05,3.00E+06,5.90309053,6.477121399,Experiment 2
+Ten Days,Hemp,0.89,2.50E+06,1.05E+07,6.397940182,7.02118934,Experiment 2
+Ten Days,Hemp Blank,0.8,0.00E+00,0.00E+00,0,0,Experiment 2
+Ten Days,Soil,0.82,1.60E+05,0.00E+00,5.204122697,0,Experiment 2
+Ten Days,Soil,0.77,6.00E+04,5.00E+02,4.778158489,2.699837726,Experiment 2
+Ten Days,Soil Blank,0.9,0.00E+00,0.00E+00,0,0,Experiment 2
+Three Days,Bacteria in PBS,0,1.15E+06,3.50E+04,6.060698218,4.544080453,Experiment 2
+Three Days,Biostrate,0.31,8.00E+06,1.15E+07,6.903090041,7.060697878,Experiment 2
+Three Days,Biostrate,0.36,4.50E+06,1.50E+07,6.65321261,7.176091288,Experiment 2
+Three Days,Biostrate Blank,0.29,0.00E+00,0.00E+00,0,0,Experiment 2
+Three Days,PBS Only,0,0.00E+00,0.00E+00,0,0,Experiment 2
+Three Days,Coco Coir,1.23,2.50E+05,1.00E+05,5.397941746,5.000004343,Experiment 2
+Three Days,Coco Coir,1.35,4.00E+05,5.00E+04,5.602061077,4.69897869,Experiment 2
+Three Days,Coco Coir Blank,1.19,0.00E+00,2.00E+03,0,3.301247089,Experiment 2
+Three Days,Hemp,0.95,8.50E+06,1.55E+07,6.929418977,7.190331726,Experiment 2
+Three Days,Hemp,1.03,2.60E+07,1.15E+07,7.414973365,7.060697878,Experiment 2
+Three Days,Hemp Blank,1.11,0.00E+00,4.50E+05,0,5.653213479,Experiment 2
+Three Days,Soil,0.91,1.20E+06,1.50E+05,6.079181608,5.176094154,Experiment 2
+Three Days,Soil,0.8,1.45E+06,5.00E+04,6.161368302,4.69897869,Experiment 2
+Three Days,Soil Blank,0.85,0.00E+00,0.00E+00,0,0,Experiment 2
