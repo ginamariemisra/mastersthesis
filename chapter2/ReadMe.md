@@ -1,4 +1,4 @@
-Read me for Chapter 2
+Read me for Chapter 2: The Survey
 
 Description of Files
 
