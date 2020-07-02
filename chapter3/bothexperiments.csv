@@ -5,10 +5,10 @@ Initial,Biostrate,NA,2.70E+06,4.50E+05,6.431363925,5.653213479,Experiment 1,
 Initial,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1,
 Initial,Coco Coir,NA,2.40E+06,1.10E+06,6.380211423,6.04139308,Experiment 1,
 Initial,Coco Coir,NA,2.10E+06,8.50E+05,6.322219502,5.929419437,Experiment 1,
-Initial,Coco Coir Blank,NA,0.00E+00,6.00E+05,0,5.778151974,Experiment 1, Note- contaminants, not Salmonella or Listeria
+Initial,Coco Coir Blank,NA,0.00E+00,6.00E+05,0,5.778151974,Experiment 1, Contaminants - not Salmonella or Listeria
 Initial,Hemp,NA,1.70E+06,7.50E+05,6.230449177,5.875061842,Experiment 1,
 Initial,Hemp,NA,2.45E+06,3.50E+05,6.389166262,5.544069285,Experiment 1,
-Initial,Hemp Blank,NA,0.00E+00,5.50E+05,0,5.740363479,Experiment 1, Note- contaminants, not Salmonella or Listeria
+Initial,Hemp Blank,NA,0.00E+00,5.50E+05,0,5.740363479,Experiment 1, Contaminants - not Salmonella or Listeria
 Initial,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1,
 Initial,Soil,NA,1.30E+06,7.50E+05,6.113943686,5.875061842,Experiment 1,
 Initial,Soil,NA,2.10E+06,5.00E+05,6.322219502,5.698970873,Experiment 1,
@@ -22,7 +22,7 @@ One Day,Coco Coir,NA,1.00E+06,9.50E+05,6.000000434,5.977724062,Experiment 1,
 One Day,Coco Coir,NA,2.50E+06,6.00E+05,6.397940182,5.778151974,Experiment 1,
 One Day,Hemp,NA,8.10E+07,1.10E+08,7.908485024,8.041392689,Experiment 1,
 One Day,Hemp,NA,6.10E+07,2.20E+08,7.785329842,8.342422683,Experiment 1,
-One Day,Hemp Blank,NA,0.00E+00,2.50E+05,0,5.397941746,Experiment 1, Note- contaminants, not Salmonella or Listeria
+One Day,Hemp Blank,NA,0.00E+00,2.50E+05,0,5.397941746,Experiment 1, Contaminants - not Salmonella or Listeria
 One Day,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1,
 One Day,Soil,NA,3.00E+06,8.50E+05,6.477121399,5.929419437,Experiment 1,
 One Day,Soil,NA,5.50E+06,1.40E+06,6.740362768,6.146128346,Experiment 1,
@@ -33,10 +33,10 @@ Six Days,Biostrate,NA,2.70E+07,8.50E+06,7.43136378,6.929418977,Experiment 1,
 Six Days,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1,
 Six Days,Coco Coir,NA,3.70E+05,3.00E+05,5.568202898,5.477122702,Experiment 1,
 Six Days,Coco Coir,NA,3.05E+05,2.00E+05,5.484301263,5.301032167,Experiment 1,
-Six Days,Coco Coir Blank,NA,0.00E+00,1.50E+05,0,5.176094154,Experiment 1, Note- contaminants, not Salmonella or Listeria
+Six Days,Coco Coir Blank,NA,0.00E+00,1.50E+05,0,5.176094154,Experiment 1, Contaminants - not Salmonella or Listeria
 Six Days,Hemp,NA,2.45E+06,6.90E+06,6.389166262,6.838849154,Experiment 1,
 Six Days,Hemp,NA,8.80E+06,2.15E+07,6.944482722,7.33243848,Experiment 1,
-Six Days,Hemp Blank,NA,0.00E+00,5.00E+05,0,5.698970873,Experiment 1, Note- contaminants, not Salmonella or Listeria
+Six Days,Hemp Blank,NA,0.00E+00,5.00E+05,0,5.698970873,Experiment 1, Contaminants - not Salmonella or Listeria
 Six Days,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1,
 Six Days,Soil,NA,3.90E+05,0.00E+00,5.591065721,0,Experiment 1,
 Six Days,Soil,NA,5.65E+05,0.00E+00,5.752049216,0,Experiment 1,
@@ -47,10 +47,10 @@ Three Days,Biostrate,NA,2.70E+07,7.50E+06,7.43136378,6.875061321,Experiment 1,
 Three Days,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1,
 Three Days,Coco Coir,NA,5.00E+05,1.00E+05,5.698970873,5.000004343,Experiment 1,
 Three Days,Coco Coir,NA,9.00E+05,1.50E+05,5.954242992,5.176094154,Experiment 1,
-Three Days,Coco Coir Blank,NA,0.00E+00,2.00E+05,0,5.301032167,Experiment 1, Note- contaminants, not Salmonella or Listeria
+Three Days,Coco Coir Blank,NA,0.00E+00,2.00E+05,0,5.301032167,Experiment 1, Contaminants - not Salmonella or Listeria
 Three Days,Hemp,NA,3.10E+07,4.95E+07,7.491361708,7.694605208,Experiment 1,
 Three Days,Hemp,NA,3.70E+07,2.40E+07,7.568201736,7.38021126,Experiment 1,
-Three Days,Hemp Blank,NA,0.00E+00,1.55E+06,0,6.190331978,Experiment 1, Note- contaminants, not Salmonella or Listeria
+Three Days,Hemp Blank,NA,0.00E+00,1.55E+06,0,6.190331978,Experiment 1, Contaminants - not Salmonella or Listeria
 Three Days,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1,
 Three Days,Soil,NA,5.50E+05,5.00E+04,5.740363479,4.69897869,Experiment 1,
 Three Days,Soil,NA,5.00E+05,5.00E+04,5.698970873,4.69897869,Experiment 1,
@@ -76,10 +76,10 @@ One Day,Biostrate Blank,0.2,0.00E+00,0.00E+00,0,0,Experiment 2,
 One Day,PBS Only,0,0.00E+00,0.00E+00,0,0,Experiment 2,
 One Day,Coco Coir,1.1,8.00E+05,2.00E+05,5.90309053,5.301032167,Experiment 2,
 One Day,Coco Coir,1.25,1.15E+06,2.00E+05,6.060698218,5.301032167,Experiment 2,
-One Day,Coco Coir Blank,1.13,0.00E+00,1.50E+03,0,3.176380692,Experiment 2, Note- contaminants, not Salmonella or Listeria
+One Day,Coco Coir Blank,1.13,0.00E+00,1.50E+03,0,3.176380692,Experiment 2, Contaminants - not Salmonella or Listeria
 One Day,Hemp,0.97,6.50E+07,1.20E+08,7.812913363,8.07918125,Experiment 2,
 One Day,Hemp,0.93,1.20E+08,2.35E+08,8.07918125,8.371067864,Experiment 2,
-One Day,Hemp Blank,1.11,0.00E+00,3.50E+05,0,5.544069285,Experiment 2, Note- contaminants, not Salmonella or Listeria
+One Day,Hemp Blank,1.11,0.00E+00,3.50E+05,0,5.544069285,Experiment 2, Contaminants - not Salmonella or Listeria
 One Day,Soil,1.24,2.85E+06,8.50E+05,6.454845012,5.929419437,Experiment 2,
 One Day,Soil,1.05,2.90E+06,8.50E+05,6.462398148,5.929419437,Experiment 2,
 One Day,Soil Blank,0.94,0.00E+00,0.00E+00,0,0,Experiment 2,
@@ -118,10 +118,10 @@ Three Days,Biostrate Blank,0.29,0.00E+00,0.00E+00,0,0,Experiment 2,
 Three Days,PBS Only,0,0.00E+00,0.00E+00,0,0,Experiment 2,
 Three Days,Coco Coir,1.23,2.50E+05,1.00E+05,5.397941746,5.000004343,Experiment 2,
 Three Days,Coco Coir,1.35,4.00E+05,5.00E+04,5.602061077,4.69897869,Experiment 2,
-Three Days,Coco Coir Blank,1.19,0.00E+00,2.00E+03,0,3.301247089,Experiment 2, Note- contaminants, not Salmonella or Listeria
+Three Days,Coco Coir Blank,1.19,0.00E+00,2.00E+03,0,3.301247089,Experiment 2, Contaminants - not Salmonella or Listeria
 Three Days,Hemp,0.95,8.50E+06,1.55E+07,6.929418977,7.190331726,Experiment 2,
 Three Days,Hemp,1.03,2.60E+07,1.15E+07,7.414973365,7.060697878,Experiment 2,
-Three Days,Hemp Blank,1.11,0.00E+00,4.50E+05,0,5.653213479,Experiment 2, Note- contaminants, not Salmonella or Listeria
+Three Days,Hemp Blank,1.11,0.00E+00,4.50E+05,0,5.653213479,Experiment 2, Contaminants - not Salmonella or Listeria
 Three Days,Soil,0.91,1.20E+06,1.50E+05,6.079181608,5.176094154,Experiment 2,
 Three Days,Soil,0.8,1.45E+06,5.00E+04,6.161368302,4.69897869,Experiment 2,
 Three Days,Soil Blank,0.85,0.00E+00,0.00E+00,0,0,Experiment 2,
