@@ -1,13 +1,13 @@
 Day,Material,Weight of media (g),Salmonella CFU/mL,Listeria CFU/mL,Salmonella.LOG,Listeria.LOG,Experiment, Lab Notes
-Initial,Bacteria in PBS,NA,1.75E+06,8.00E+05,6.243038297,5.90309053,Experiment 1
-Initial,Biostrate,NA,2.45E+06,8.50E+05,6.389166262,5.929419437,Experiment 1
-Initial,Biostrate,NA,2.70E+06,4.50E+05,6.431363925,5.653213479,Experiment 1
-Initial,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1
-Initial,Coco Coir,NA,2.40E+06,1.10E+06,6.380211423,6.04139308,Experiment 1
-Initial,Coco Coir,NA,2.10E+06,8.50E+05,6.322219502,5.929419437,Experiment 1
+Initial,Bacteria in PBS,NA,1.75E+06,8.00E+05,6.243038297,5.90309053,Experiment 1,
+Initial,Biostrate,NA,2.45E+06,8.50E+05,6.389166262,5.929419437,Experiment 1,
+Initial,Biostrate,NA,2.70E+06,4.50E+05,6.431363925,5.653213479,Experiment 1,
+Initial,Biostrate Blank,NA,0.00E+00,0.00E+00,0,0,Experiment 1,
+Initial,Coco Coir,NA,2.40E+06,1.10E+06,6.380211423,6.04139308,Experiment 1,
+Initial,Coco Coir,NA,2.10E+06,8.50E+05,6.322219502,5.929419437,Experiment 1,
 Initial,Coco Coir Blank,NA,0.00E+00,6.00E+05,0,5.778151974,Experiment 1, Note- contaminants, not Salmonella or Listeria
-Initial,Hemp,NA,1.70E+06,7.50E+05,6.230449177,5.875061842,Experiment 1
-Initial,Hemp,NA,2.45E+06,3.50E+05,6.389166262,5.544069285,Experiment 1
+Initial,Hemp,NA,1.70E+06,7.50E+05,6.230449177,5.875061842,Experiment 1,
+Initial,Hemp,NA,2.45E+06,3.50E+05,6.389166262,5.544069285,Experiment 1,
 Initial,Hemp Blank,NA,0.00E+00,5.50E+05,0,5.740363479,Experiment 1, , Note- contaminants, not Salmonella or Listeria
 Initial,PBS Only,NA,0.00E+00,0.00E+00,0,0,Experiment 1
 Initial,Soil,NA,1.30E+06,7.50E+05,6.113943686,5.875061842,Experiment 1
